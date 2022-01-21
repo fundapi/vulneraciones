@@ -44,7 +44,7 @@ $provincia_mostrar = ucfirst($provincia);
   <script src="assets/js/main.js"></script>
   <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
   <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDaiRScTBK-bWCko4M-egreUnXTioEeWyo&callback=initMap&libraries=&v=weekly"
+      src="https://maps.googleapis.com/maps/api/js?key=XXX&callback=initMap&libraries=&v=weekly"
       defer></script>
     
   <!-- Favicons -->
